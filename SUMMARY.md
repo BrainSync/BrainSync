@@ -12,4 +12,5 @@
 
 ## Features
 
-* [Page 1](features/page-1.md)
+* [Dapp SYNCbrain](features/dapp-syncbrain.md)
+* [Staking SYNCbrain](features/staking-syncbrain.md)
