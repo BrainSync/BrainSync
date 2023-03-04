@@ -14,5 +14,7 @@
 
 * [Dapp SYNCbrain](features/dapp-syncbrain.md)
 * [Staking SYNCbrain](features/staking-syncbrain.md)
+* [Copy Trading SYNCbrain](features/copy-trading-syncbrain.md)
 * [Automated Investments (Bot)](features/automated-investments-bot.md)
-* [Page 1](features/page-1.md)
+* [Anti Fraud SYNCBrain](features/anti-fraud-syncbrain/README.md)
+  * [Anti Fraud Application](features/anti-fraud-syncbrain/anti-fraud-application.md)
