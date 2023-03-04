@@ -11,6 +11,6 @@ coverY: 0
 | KYC, AUDIT & SAFU                 | BSCScan Verification             | Copy Trading SYNCbrain                                        |
 | Pinksale Fair Launch              | Social Media Ads Campaign        | V2 Whitepaper Release                                         |
 | Global Marketing Campaign         | Viral Twitter Marketing Campaign | Website 2.0 Release                                           |
-| CoinMarketCap & CoinGecko Listing | Anti Fraud SYNCBrain             | Beta phase in the platform, with yield farming, DAOgovernance |
-|                                   |                                  | Metaverse development and AI integration - Demo               |
-|                                   |                                  | Much more…                                                    |
+| CoinMarketCap & CoinGecko Listing | Metaverse SYNCbrain              | Metaverse development and AI integration - Demo               |
+|                                   | Anti Fraud SYNCBrain             | Beta phase in the platform, with yield farming, DAOgovernance |
+|                                   | DAO SYNCbrian                    | Much more…                                                    |

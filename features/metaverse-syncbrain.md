@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/Synaptic-5.png
+coverY: 0
+---
+
 # 🪐 Metaverse SYNCbrain
 
 ## Metaverse SYNCbrain
@@ -8,5 +13,5 @@
 * _Another application of AI in the metaverse is the personalization of virtual spaces. With the help of AI, virtual spaces can be adapted to the needs and preferences of users, making the metaverse experience more personalized and enjoyable._
 
 {% hint style="info" %}
-_In summary, the integration of the SYNCbrain metaverse with AI offers numerous possibilities and practical applications to make the metaverse experience more immersive, engaging, and personalized._
+_The integration of the SYNCbrain metaverse with AI offers numerous possibilities and practical applications to make the metaverse experience more immersive, engaging, and personalized._
 {% endhint %}

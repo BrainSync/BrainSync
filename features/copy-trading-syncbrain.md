@@ -1,4 +1,5 @@
 ---
+cover: ../.gitbook/assets/Synaptic-5.png
 coverY: 0
 ---
 
@@ -18,5 +19,5 @@ coverY: 0
 * _The successful trader uses a short-term trading strategy, buying and selling BTC at regular intervals. The Brain Sync platform automatically replicates these trades in real-time. As a result, the investor can obtain significant returns without needing detailed knowledge of the cryptocurrency market._
 
 {% hint style="info" %}
-_In summary, the Brain Sync project is a practical example of how AI can be used in copy trading in the cryptocurrency market to improve the efficiency and profitability of investments. The use of advanced AI techniques allows the identification of profitable trading opportunities, while the automatic replication of successful traders' strategies ensures a higher probability of success._
+_The Brain Sync project is a practical example of how AI can be used in copy trading in the cryptocurrency market to improve the efficiency and profitability of investments. The use of advanced AI techniques allows the identification of profitable trading opportunities, while the automatic replication of successful traders' strategies ensures a higher probability of success._
 {% endhint %}

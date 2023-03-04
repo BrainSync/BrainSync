@@ -1,4 +1,5 @@
 ---
+cover: ../.gitbook/assets/Synaptic-5.png
 coverY: 0
 ---
 
@@ -15,5 +16,5 @@ coverY: 0
 * _An example of how the Brain Sync wallet can be applied is in the case of a user who wishes to send Bitcoin (BTC) to a recipient. The wallet would analyze the current network congestion and suggest the ideal transaction fee to ensure the transaction is processed quickly and efficiently. The AI algorithms would also monitor the transaction in real-time to detect potential security threats and prevent fraudulent activity._
 
 {% hint style="info" %}
-Overall, the Brain Sync wallet is a practical example of how AI can be integrated into digital wallets to improve functionality, security, and the user experience in the cryptocurrency space.
+The Brain Sync wallet is a practical example of how AI can be integrated into digital wallets to improve functionality, security, and the user experience in the cryptocurrency space.
 {% endhint %}

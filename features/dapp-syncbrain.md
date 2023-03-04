@@ -1,4 +1,5 @@
 ---
+cover: ../.gitbook/assets/Synaptic-5.png
 coverY: 0
 ---
 
@@ -11,7 +12,7 @@ coverY: 0
 * _This information can be presented through various means, such as reports, charts, and graphs. Additionally, the Brain Sync Dapp can provide real-time updates on investment opportunities, enabling investors to stay up-to-date on market trends and make quick decisions._&#x20;
 
 {% hint style="info" %}
-_Overall, the Brain Sync Dapp works by providing investors with comprehensive and accurate information about investment opportunities, leveraging the power of AI to analyze data and identify important trends and patterns in the crypto market._
+_The Brain Sync Dapp works by providing investors with comprehensive and accurate information about investment opportunities, leveraging the power of AI to analyze data and identify important trends and patterns in the crypto market._
 {% endhint %}
 
 \

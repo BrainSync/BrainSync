@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/Synaptic-5.png
+coverY: 0
+---
+
 # 🤖 Automated Investments (Bot)
 
 * _Brain Sync is a cutting-edge technology that offers a range of powerful capabilities, including the ability to provide advanced data analysis and insights. By leveraging these capabilities, an AI-based investment analysis product can provide investors with a more precise, streamlined, and data-oriented approach to market analysis._
@@ -7,5 +12,5 @@
 * _The Brain Sync Telegram Bot is highly secure, with robust security features and protocols in place to protect investors' data and personal information. This can provide investors with peace of mind and ensure that their investments are kept safe and secure at all times._
 
 {% hint style="info" %}
-_In summary, the Brain Sync investment analysis product and its Telegram Bot represent a revolutionary step forward in the world of investment analysis, providing investors with a more precise, streamlined, and data-oriented approach to market analysis. With its advanced capabilities, highly customizable features, and robust security resources, Brain Sync can provide investors with a significant competitive advantage and help them achieve their financial objectives._
+_The Brain Sync investment analysis product and its Telegram Bot represent a revolutionary step forward in the world of investment analysis, providing investors with a more precise, streamlined, and data-oriented approach to market analysis. With its advanced capabilities, highly customizable features, and robust security resources, Brain Sync can provide investors with a significant competitive advantage and help them achieve their financial objectives._
 {% endhint %}

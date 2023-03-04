@@ -1,4 +1,5 @@
 ---
+cover: ../.gitbook/assets/Synaptic-5.png
 coverY: 0
 ---
 
@@ -11,5 +12,5 @@ coverY: 0
 * _The benefits of using the Brain Sync staking system extend beyond the potential for higher rewards. The system is highly secure, with robust security features and protocols in place to protect users' funds and personal information. Additionally, the staking system is highly scalable, with the ability to accommodate a large number of users and handle high volumes of transactions._
 
 {% hint style="info" %}
-_Overall, the Brain Sync staking system represents a significant step forward in the world of blockchain-based investments, providing users with a more effective and lucrative staking experience while maintaining the highest standards of security and scalability._
+_The Brain Sync staking system represents a significant step forward in the world of blockchain-based investments, providing users with a more effective and lucrative staking experience while maintaining the highest standards of security and scalability._
 {% endhint %}
