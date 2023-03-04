@@ -3,7 +3,13 @@
 * [Brain Sync](README.md)
 * [Social Media](social-media.md)
 * [KYC, Audit & SAFU](kyc-audit-and-safu.md)
+* [Token SYNCbrain](token-syncbrain.md)
 
-## Overview
+## Starting Point
 
-* [Page 1](overview/page-1.md)
+* [Brain Sync's potential in the crypto market](starting-point/brain-syncs-potential-in-the-crypto-market.md)
+* [Benefits of Brain Sync](starting-point/benefits-of-brain-sync.md)
+
+## Features
+
+* [Page 1](features/page-1.md)
