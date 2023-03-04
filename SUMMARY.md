@@ -14,3 +14,5 @@
 
 * [Dapp SYNCbrain](features/dapp-syncbrain.md)
 * [Staking SYNCbrain](features/staking-syncbrain.md)
+* [Automated Investments (Bot)](features/automated-investments-bot.md)
+* [Page 1](features/page-1.md)
