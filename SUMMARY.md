@@ -16,6 +16,7 @@
 * [🛡 Dapp SYNCbrain](features/dapp-syncbrain.md)
 * [💰 Staking SYNCbrain](features/staking-syncbrain.md)
 * [✒ Copy Trading SYNCbrain](features/copy-trading-syncbrain.md)
-* [🤖 Automated Investments (Bot)](features/automated-investments-bot.md)
 * [🗃 SYNCbrain Wallet](features/syncbrain-wallet.md)
+* [♻ DAO SYNCbrian](features/dao-syncbrian.md)
 * [🔰 Anti Fraud SYNCBrain](features/anti-fraud-syncbrain.md)
+* [🤖 Automated Investments (Bot)](features/automated-investments-bot.md)
