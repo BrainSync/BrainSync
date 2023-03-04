@@ -6,30 +6,37 @@ coverY: 0
 
 ## Token SYNCbrain
 
-Presale Address:
+_Presale Address:_
 
-Token Name: Brain Sync
+_Token Name: Brain Sync_
 
-Token Symbol: SYNCBrain
+_Token Symbol: SYNCBrain_
 
-Token Address:
+_Token Address:_
 
-Total Supply:
+_Total Supply:_
 
-Soft Cap:
+_Soft Cap:_
 
-Presale Start Time:
+_Presale Start Time:_
 
-Presale End Time:
+_Presale End Time:_
 
 ## Token Metrics
 
 |    Description    |  %  |
 | :---------------: | :-: |
-|      Presale      |     |
-|     Liquidity     |     |
-| Plataform Staking |     |
-|    Copy Trading   |     |
-|                   |     |
-|                   |     |
-|                   |     |
+|      Presale      |  %  |
+|     Liquidity     |  %  |
+| Plataform Staking |  %  |
+|    Copy Trading   |  %  |
+|   Dapp Platform   |  %  |
+|  Bot Investiment  |  %  |
+|    Cex Listing    |  %  |
+|       Burnt       |  %  |
+
+## Transaction fee free project !
+
+#### _0% - Purchasing tax_
+
+#### _0% - Sales tax_
