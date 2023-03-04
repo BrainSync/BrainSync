@@ -2,7 +2,7 @@
 coverY: 0
 ---
 
-# Copy Trading SYNCbrain
+# ✒ Copy Trading SYNCbrain
 
 ## Copy Trading SYNCbrain
 

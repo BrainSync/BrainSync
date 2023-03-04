@@ -2,7 +2,7 @@
 coverY: 0
 ---
 
-# Dapp SYNCbrain
+# 🛡 Dapp SYNCbrain
 
 ## Dapp SYNCbrain
 

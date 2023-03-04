@@ -2,7 +2,7 @@
 coverY: 0
 ---
 
-# KYC, Audit & SAFU
+# 🕵♂ KYC, Audit & SAFU
 
 * KYC (Know Your Customer), auditing, and the SAFU (Secure Asset Fund for Users) seal are important security measures in cryptocurrency projects. KYC is a legal requirement for companies dealing with cryptocurrencies and aims to verify the identity of their users, preventing fraud and money laundering.
 * Auditing is an independent and impartial evaluation process of a company's procedures, including its finances and internal controls. In cryptocurrency projects, an audit helps verify the accuracy of the information provided by the company and ensure that user funds are safe.

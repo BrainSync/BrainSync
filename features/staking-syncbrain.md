@@ -2,7 +2,7 @@
 coverY: 0
 ---
 
-# Staking SYNCbrain
+# 💰 Staking SYNCbrain
 
 ## Staking SYNCbrain
 

@@ -2,7 +2,7 @@
 coverY: 0
 ---
 
-# Benefits of Brain Sync
+# ✅ Benefits of Brain Sync
 
 #### Advanced AI technology:
 

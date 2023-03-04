@@ -2,7 +2,7 @@
 coverY: 0
 ---
 
-# Social Media
+# 🌐 Social Media
 
 ## The Importance of Engaged Social Media in Crypto Projects
 

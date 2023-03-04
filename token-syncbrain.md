@@ -2,5 +2,5 @@
 coverY: 0
 ---
 
-# Token SYNCbrain
+# 🪙 Token SYNCbrain
 
