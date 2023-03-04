@@ -18,5 +18,6 @@
 * [✒ Copy Trading SYNCbrain](features/copy-trading-syncbrain.md)
 * [🗃 SYNCbrain Wallet](features/syncbrain-wallet.md)
 * [♻ DAO SYNCbrian](features/dao-syncbrian.md)
+* [🪐 Metaverse SYNCbrain](features/metaverse-syncbrain.md)
 * [🔰 Anti Fraud SYNCBrain](features/anti-fraud-syncbrain.md)
 * [🤖 Automated Investments (Bot)](features/automated-investments-bot.md)
