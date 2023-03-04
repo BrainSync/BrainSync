@@ -1,4 +1,5 @@
 ---
+cover: ../.gitbook/assets/Synaptic-5.png
 coverY: 0
 ---
 
@@ -23,9 +24,6 @@ _Brain Sync's user-friendly interfaces and accessibility across multiple platfor
 #### Innovation and development:&#x20;
 
 _Brain Sync is a platform that is constantly evolving and developing due to its ongoing research and development. This could lead to the introduction of new and innovative solutions that have the potential to revolutionize the financial industry, particularly in the context of the cryptocurrency market._
-
-\
-
 
 \
 

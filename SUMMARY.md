@@ -6,12 +6,12 @@
 * [🪙 Token SYNCbrain](token-syncbrain.md)
 * [🛤 Roadmap](roadmap.md)
 
-## Starting Point
+## ▶ Starting Point
 
 * [🔎 Brain Sync's potential in the crypto market](starting-point/brain-syncs-potential-in-the-crypto-market.md)
 * [✅ Benefits of Brain Sync](starting-point/benefits-of-brain-sync.md)
 
-## Features
+## ▶ Features
 
 * [🛡 Dapp SYNCbrain](features/dapp-syncbrain.md)
 * [💰 Staking SYNCbrain](features/staking-syncbrain.md)

@@ -1,4 +1,5 @@
 ---
+cover: .gitbook/assets/Synaptic-5.png
 coverY: 0
 ---
 
@@ -24,16 +25,17 @@ _Presale End Time:_
 
 ## Token Metrics
 
-|    Description    |  %  |
-| :---------------: | :-: |
-|      Presale      |  %  |
-|     Liquidity     |  %  |
-| Plataform Staking |  %  |
-|    Copy Trading   |  %  |
-|   Dapp Platform   |  %  |
-|  Bot Investiment  |  %  |
-|    Cex Listing    |  %  |
-|       Burnt       |  %  |
+|     Description     |  %  |
+| :-----------------: | :-: |
+|       Presale       |  %  |
+|      Liquidity      |  %  |
+|  Plataform Staking  |  %  |
+|     Copy Trading    |  %  |
+|    Dapp Platform    |  %  |
+| Metaverse SYNCbrain |     |
+|   Bot Investiment   |  %  |
+|     Cex Listing     |  %  |
+|        Burnt        |  %  |
 
 ## Transaction fee free project !
 
