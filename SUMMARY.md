@@ -1,6 +1,6 @@
 # Table of contents
 
-* [📍 Brain Sync](README.md)
+* [📍 BRAIN SYNC](README.md)
 * [🌐 Social Media](social-media.md)
 * [🕵♂ KYC, Audit & SAFU](kyc-audit-and-safu.md)
 * [🪙 Token SYNCbrain](token-syncbrain.md)
