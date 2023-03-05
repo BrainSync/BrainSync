@@ -1,5 +1,5 @@
 ---
-cover: .gitbook/assets/Synaptic-5.png
+cover: .gitbook/assets/GitHub (1).png
 coverY: 0
 ---
 

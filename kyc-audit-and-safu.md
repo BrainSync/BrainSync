@@ -1,6 +1,6 @@
 ---
 description: COMING SOON...
-cover: .gitbook/assets/Synaptic-5.png
+cover: broken-reference
 coverY: 0
 ---
 
