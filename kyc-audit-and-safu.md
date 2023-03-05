@@ -1,6 +1,6 @@
 ---
 description: COMING SOON...
-cover: broken-reference
+cover: .gitbook/assets/GitHub.png
 coverY: 0
 ---
 
