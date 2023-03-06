@@ -13,11 +13,11 @@
 
 ## ▶ Features
 
-* [🛡 Dapp SYNCbrain](features/dapp-syncbrain.md)
-* [💰 Staking SYNCbrain](features/staking-syncbrain.md)
-* [✒ Copy Trading SYNCbrain](features/copy-trading-syncbrain.md)
+* [🛡 Dapp SyncBrain](features/dapp-syncbrain.md)
+* [💰 Staking SyncBrain](features/staking-syncbrain.md)
+* [✒ Copy Trading SyncBrain](features/copy-trading-syncbrain.md)
 * [🤖 Automated Investments (Bot)](features/automated-investments-bot.md)
-* [🪐 Metaverse SYNCbrain](features/metaverse-syncbrain.md)
+* [🪐 Metaverse SyncBrain](features/metaverse-syncbrain.md)
 * [🔰 Anti Fraud SYNCBrain](features/anti-fraud-syncbrain.md)
-* [♻ DAO SYNCbrian](features/dao-syncbrian.md)
-* [🗃 SYNCbrain Wallet](features/syncbrain-wallet.md)
+* [♻ DAO SyncBrain](features/dao-syncbrain.md)
+* [🗃 SyncBrain Wallet](features/syncbrain-wallet.md)

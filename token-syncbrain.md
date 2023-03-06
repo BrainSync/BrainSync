@@ -11,7 +11,7 @@ _Presale Address:_
 
 _Token Name: Brain Sync_
 
-_Token Symbol: SYNCBrain_
+_Token Symbol: SyncBrain_
 
 _Token Address:_
 
