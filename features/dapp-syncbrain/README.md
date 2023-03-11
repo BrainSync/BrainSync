@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/GitHub.png
+cover: ../../.gitbook/assets/GitHub.png
 coverY: 0
 ---
 
@@ -15,4 +15,4 @@ coverY: 0
 _The SyncBrain Dapp works by providing investors with comprehensive and accurate information about investment opportunities, leveraging the power of AI to analyze data and identify important trends and patterns in the crypto market._
 {% endhint %}
 
-\
+<figure><img src="../../.gitbook/assets/Captura de Tela 2023-03-11 às 13.39.11.png" alt=""><figcaption></figcaption></figure>

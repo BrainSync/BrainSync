@@ -6,14 +6,15 @@
 * [🪙 Token SYNCbrain](token-syncbrain.md)
 * [🛤 Roadmap](roadmap.md)
 
-## ▶ Starting Point
+## Starting Point
 
 * [🔎 Brain Sync's potential in the crypto market](starting-point/brain-syncs-potential-in-the-crypto-market.md)
 * [✅ Benefits of Brain Sync](starting-point/benefits-of-brain-sync.md)
 
-## ▶ Features
+## Features
 
-* [🛡 Dapp SyncBrain](features/dapp-syncbrain.md)
+* [🛡 Dapp SyncBrain](features/dapp-syncbrain/README.md)
+  * [😍 App SyncBrain](https://app.brainsync.cloud/)
 * [💰 Staking SyncBrain](features/staking-syncbrain.md)
 * [✒ Copy Trading SyncBrain](features/copy-trading-syncbrain.md)
 * [🤖 Automated Investments (Bot)](features/automated-investments-bot.md)
