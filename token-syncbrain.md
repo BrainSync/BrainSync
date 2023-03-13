@@ -7,35 +7,33 @@ coverY: 0
 
 ## Token SYNCbrain
 
-_Presale Address:_
+_Presale Address:_ 0xcd46Ee654F0936353Bd4d1626aAb1B5E438d4E5F
 
 _Token Name: Brain Sync_
 
 _Token Symbol: SyncBrain_
 
-_Token Address:_
+_Token Address:_ 0xE82546b56B1b8A5f031Bcd23Ff6332282cB0124B_Total_&#x20;
 
-_Total Supply:_
+_Supply:_ 100,000,000 SyncBrain
 
-_Soft Cap:_
+_Soft Cap:_ 50 BNB
 
-_Presale Start Time:_
+_Presale Start Time:_ 2023.03.14 15:00 (UTC)
 
-_Presale End Time:_
+_Presale End Time:_ 2023.03.16 16:00 (UTC)
 
-## Token Metrics
+#### Token Metrics
 
-|     Description     |  %  |
-| :-----------------: | :-: |
-|       Presale       |  %  |
-|      Liquidity      |  %  |
-|  Plataform Staking  |  %  |
-|     Copy Trading    |  %  |
-|    Dapp Platform    |  %  |
-| Metaverse SYNCbrain |     |
-|   Bot Investiment   |  %  |
-|     Cex Listing     |  %  |
-|        Burnt        |  %  |
+|         Description        |    %   |
+| :------------------------: | :----: |
+|           Presale          | 38,19% |
+|          Liquidity         | 21,77% |
+|      Plataform Staking     |   10%  |
+| Advisor / Marketing / Team |   10%  |
+|     Development Project    |   10%  |
+|   Mobile APK maintenance   |  0,02% |
+|         Cex Listing        |   10%  |
 
 ## Transaction fee free project !
 
