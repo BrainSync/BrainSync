@@ -3,9 +3,9 @@ cover: .gitbook/assets/GitHub.png
 coverY: 0
 ---
 
-# 🪙 Token SYNCbrain
+# 🪙 Token Brain Sync
 
-## Token SYNCbrain
+## Token Brain Sync
 
 _Presale Address:_ 0xcd46Ee654F0936353Bd4d1626aAb1B5E438d4E5F
 
