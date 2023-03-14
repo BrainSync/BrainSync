@@ -2,7 +2,7 @@
 
 * [📍 Brain Sync](README.md)
 * [🌐 Social Media](social-media.md)
-* [🕵♂ KYC, Audit & SAFU](kyc-audit-and-safu.md)
+* [🕵♂ KYC & Audit](kyc-and-audit.md)
 * [🪙 Token SYNCbrain](token-syncbrain.md)
 * [🛤 Roadmap](roadmap.md)
 
